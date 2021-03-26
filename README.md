@@ -9,4 +9,4 @@ The image for above description:
 
 ![image](https://user-images.githubusercontent.com/81376452/112589640-7869cb00-8e27-11eb-97e9-22cf8c77b3d4.png)
 
-If the captcha does not matches with the use entered captcha.it says invalid captcha.
+If the captcha does not matches with the user entered captcha ,it says invalid captcha.
